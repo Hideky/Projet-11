@@ -1,0 +1,72 @@
+MIME-Version: 1.0
+Date: Sat, 12 May 2018 21:55:55 +0200
+From: Kilian Florin <kilian.florin@outlook.fr>
+Subject:
+ =?utf-8?Q?Ajout_de_la_fonctionnalit=C3=A9_demand=C3=A9_pour_l'application?=
+ =?utf-8?Q?_PurBeurre?=
+Thread-Topic:
+ =?utf-8?Q?Ajout_de_la_fonctionnalit=C3=A9_demand=C3=A9_pour_l'application?=
+ =?utf-8?Q?_PurBeurre?=
+To: "nedelec.stephane@yahoo.fr" <nedelec.stephane@yahoo.fr>
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><m=
+eta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)"><sty=
+le><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3D"FR"><div class=3D"WordSection1"><p class=3D=
+"MsoNormal">Bonjour,</p><p class=3D"MsoNormal"> </p><p class=3D"MsoNormal">=
+L=E2=80=99ajout de la fonctionnalit=C3=A9 demand=C3=A9e est d=C3=A9sormais =
+termin=C3=A9 et disponible pour =C3=AAtre mis =C3=A0 jour.</p><p class=3D"M=
+soNormal"> </p><p class=3D"MsoNormal">La page =C2=AB Mes Produits =C2=BB d=
+=E2=80=99un utilisateur connect=C3=A9 lui affiche d=C3=A9sormais un bouton =
+=C2=AB Exporter en JSon =C2=BB afin d=E2=80=99utiliser ces donn=C3=A9es dan=
+s une application tierce. </p><p class=3D"MsoNormal">&nbsp;</p><p class=3D"=
+MsoNormal">Cette page poss=C3=A8de une URL propre =C3=A0 chaque utilisateur=
+, elle contient un =C2=AB token =C2=BB g=C3=A9n=C3=A9r=C3=A9 lors de la pre=
+mi=C3=A8re visite sur la page =C2=AB Mes produits =C2=BB (afin d=E2=80=99en=
+ cr=C3=A9er aussi pour vos utilisateurs ayant d=C3=A9j=C3=A0 un compte sur =
+votre application).</p><p class=3D"MsoNormal"> </p><p class=3D"MsoNormal">P=
+our r=C3=A9sum=C3=A9, cette page ne requiert donc pas d=E2=80=99=C3=AAtre c=
+onnect=C3=A9e afin que les applications tierces puissent s=E2=80=99en servi=
+r simplement, mais ne permet pas non plus =C3=A0 un quelconque utilisateur =
+d=E2=80=99acc=C3=A9der aux favoris d=E2=80=99autres utilisateurs, le token =
+=C3=A9tant complexe et impossible =C3=A0 deviner.</p><p class=3D"MsoNormal"=
+> </p><p class=3D"MsoNormal">Des tests fonctionnels ont =C3=A9t=C3=A9 cr=C3=
+=A9=C3=A9s afin de p=C3=A9renniser l=E2=80=99=C3=A9tat de cette fonctionnal=
+it=C3=A9. N=E2=80=99h=C3=A9sitez pas =C3=A0 les lancer avant de d=C3=A9marr=
+er votre serveur et nous pr=C3=A9venir si cette mise =C3=A0 jour ne fonctio=
+nne pas correctement sur votre environnement.</p><p class=3D"MsoNormal"> </=
+p><p class=3D"MsoNormal">Afin de profiter de cette fonctionnalit=C3=A9, vou=
+s pouvez mettre =C3=A0 jour votre application quand vous le souhaitez.</p><=
+p class=3D"MsoNormal"> </p><p class=3D"MsoNormal">Note : Il sera n=C3=A9ces=
+saire de mettre =C3=A0 jour la base de donn=C3=A9es en utilisant l=E2=80=99=
+outil de migration de l=E2=80=99application, (python manage.py migrate), si=
+ n=C3=A9cessaire plus d=E2=80=99informations sont disponibles dans le dossi=
+er d=E2=80=99exploitation de l=E2=80=99application, vous pouvez me contacte=
+r =C3=A0 nouveau si besoin.</p><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>=
+<p class=3D"MsoNormal">Cordialement,<br>Kilian Florin.</p><p class=3D"MsoNo=
+rmal"><o:p>&nbsp;</o:p></p></div></body></html>=
